@@ -28,5 +28,5 @@ English (Fluent) · Uzbek (Native) · Russian (Conversational) · Turkish (Conve
 #### 📫 Reach me
 
 - 📧 mubinamirzayeva31@gmail.com
-- 💼 [LinkedIn]((https://www.linkedin.com/in/[your-handle]](https://www.linkedin.com/in/mubina-mirzaeva-2a14aa266/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/mubina-mirzaeva-2a14aa266/)
 - 📍 Open to roles in Chicago, Boston, NYC, SF, DC, Virginia, and remote 
