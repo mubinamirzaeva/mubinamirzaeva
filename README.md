@@ -3,7 +3,7 @@
 I'm an Economics and Data Analytics graduate from the University of Mississippi (B.S., May 2026, Honors College, 3.93 GPA). I work at the intersection of **applied economics, data analysis, and policy research** — combining quantitative tools with real-world context to make sense of complex problems.
 
 🛂 Authorized to work in the US (F-1 OPT, STEM-extension eligible)
-💼 Open to full-time roles in data analytics, economic consulting, and policy research
+  💼 Open to full-time roles in data analytics, economic consulting, and policy research
 
 ---  
 
